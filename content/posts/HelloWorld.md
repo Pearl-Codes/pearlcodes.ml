@@ -4,11 +4,8 @@ date: 2022-10-11T18:29:08+01:00
 draft: false
 ---
 
-Hello, world!
+**Hello, world**
 
-Welcome to my new Blog!
+Welcome to my new Blog! Here I'll post some Tips and useful information I've come across.
 
-| Column 1 	| Column  2    	| Column  3 	|
-|----------	|--------------	|-----------	|
-| Wow this 	| is some cool 	| markdown  	|
-| if i     	| do say       	| so myself 	|
+Probably won't update this too much, if I'm being honest this website is a poor excuse for me to get my Commits and PR/Merges up on github.
