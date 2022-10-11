@@ -31,12 +31,3 @@ languages:
       logo:
         logoText: PearlCodes
         logoHomeLink: /
-
-    menu:
-      main:
-      - identifier: about
-        name: About
-        url: /about
-      - identifier: showcase
-        name: Showcase
-        url: /showcase
